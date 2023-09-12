@@ -1,0 +1,40 @@
+
+   footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin: 0;
+    background: rgb(0,26,59);
+    background: linear-gradient(90deg, rgba(0,26,59,1) 0%, rgba(167,175,184,1) 100%);
+
+}
+
+   .footer{
+    display: flex;
+   }
+
+
+   footer div a {
+    text-decoration: none;
+    color: white;
+   }
+
+   footer p {
+    color: white;
+   }
+
+
+   .footer-websiteinfo{
+    padding-right: 100px;
+   }
+
+   footer , div , pre , a , p {
+    font-family: 'Kalam', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 17px;
+   }
+
+
+ 
